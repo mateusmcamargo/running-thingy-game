@@ -1,0 +1,13 @@
+- isometrics
+- idle clicker, kinda like egg inc
+- chill background music
+- button at botton center
+- mobile ready, 9:16 aspect ratio
+- every time player click the button, a new mob appears
+- mobs follow a zig-zag path arround the screen
+- when the button is upgraded, more mobs appear at once
+- wolfs
+	appear out of nowhere
+	eat/kill mobs
+	player clicks on them to kill
+	walk in packs
